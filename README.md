@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on no
 - 📫 How to reach me sandfrysyt@gmail.com
 <!---
-if your seeing this fuck you
+if you're seeing this fuck you
 --->
 <!---
 sandfrys/sandfrys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
