@@ -3,6 +3,7 @@
 - 🌱 I’m currently trying to learn PyTorch
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me sandfrysyt@gmail.com
+- 🤖 Discord: Totallyahuman15#2063
 <!---
 if you're seeing this fuck you
 --->
