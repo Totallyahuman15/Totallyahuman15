@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sandfrys
 - 👀 I’m interested in stuff
 - 🌱 I’m currently trying to learn PyTorch
-- 💞️ I’m looking to collaborate on no
+- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me sandfrysyt@gmail.com
 <!---
 if you're seeing this fuck you
