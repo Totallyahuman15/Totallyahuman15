@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @sandfrys
+- 👋 Hi, I’m @Totallyahuman15
 - 👀 I’m interested in stuff
-- 🌱 I’m currently trying to learn PyTorch
-- 💞️ I’m looking to collaborate on nothing
+- 🌱 I’m currently trying to learn C++
+- 💞️ I’m looking to collaborate on anything? idk
 - 📫 How to reach me sandfrysyt@gmail.com
 - 🤖 Discord: Totallyahuman15
 <!---
-if you're seeing this fuck you (jk)
+if you're seeing this fuck you /j
 --->
 <!---
 sandfrys/sandfrys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
